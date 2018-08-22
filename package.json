@@ -1,0 +1,15 @@
+{
+  "name": "incrediblehash",
+  "version": "1.0.3",
+  "description": "Javascript -\\_(O_O)_/-",
+  "main": "src/IncredibleHash.js",
+  "scripts": {
+    "test": "node src/TestIncredibleHash.js"
+  },
+  "author": "Max Nabokikh",
+  "license": "ISC",
+  "keywords": [
+    "serious",
+    "business"
+  ]
+}
