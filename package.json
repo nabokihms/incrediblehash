@@ -1,6 +1,6 @@
 {
   "name": "incrediblehash",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Javascript -\\_(O_O)_/-",
   "main": "src/IncredibleHash.js",
   "scripts": {
@@ -8,8 +8,13 @@
   },
   "author": "Max Nabokikh",
   "license": "ISC",
+  "homepage": "https://github.com/nabokihms/incrediblehash",
   "keywords": [
     "serious",
     "business"
-  ]
+  ],
+  "bugs": {
+    "url" : "https://github.com/nabokihms/incrediblehash",
+    "email" : "max.nabokih@gmail.com"
+  }
 }
