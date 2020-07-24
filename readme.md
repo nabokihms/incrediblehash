@@ -25,4 +25,4 @@ console.log(map.getFromHash(0));
 console.log(map.length);
 //1
 ```
-Is it incredible, isn't it?
+It is incredible, isn't it?
